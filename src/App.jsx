@@ -6,7 +6,6 @@ import Navbar from "./Navbar";
 import Project from "./Projects";
 import Footer from "./Footer";
 import Skills from "./Skills";
-import Aboutmeimg from "./images/Aboutmeimg.png";
 
 
 function App() {
@@ -14,7 +13,7 @@ function App() {
     <div className="">
       <Navbar />
       <Homepage />
-      <Aboutme />
+      
       <Project />
       <Skills />
       <Contact />
