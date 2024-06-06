@@ -1,7 +1,7 @@
 import React from "react";
 import SocialLinks from "./SocialLinks";
 import { Link } from "react-scroll";
-import homePageImg from "./images/homepageimg.jpg";
+import HomePageImg from "./images/homepageimg.jpg";
 
 
 
@@ -34,7 +34,7 @@ const Homepage = () => {
         <SocialLinks />
         <div className="bg-red-200 p-5">
           <img
-            src= {homePageImg} alt="HOME POGE IMAGE"
+            src= {HomePageImg} alt="HOME POGE IMAGE"
             className="rounded-full md:h-96 h-40 w-40 md:w-96 shadow-xl shadow-black"
           ></img>
         </div>
