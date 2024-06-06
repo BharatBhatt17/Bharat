@@ -9,7 +9,7 @@ const Homepage = () => {
   return (
     <div
       name="home"
-      className="h-screen bg-white text-black md:flex md:justify-center md:items-center md:p-20 pt-40 p-2"
+      className="h-screen bg-red text-black md:flex md:justify-center md:items-center md:p-20 pt-40 p-2"
     >
       <div className=" font-sans gap-8 md:gap-10 md:flex md:flex-row flex flex-col-reverse md:justify-center items-center">
         <div className="flex flex-col justify-center items-center ">
