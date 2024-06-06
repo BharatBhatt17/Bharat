@@ -34,7 +34,7 @@ const Homepage = () => {
         <SocialLinks />
         <div className="bg-red-200 p-5">
           <img
-            src= {HomePageImg} alt="HOME POGE IMAGE"
+            src= {HomePageImg} alt="HOME PAGE IMAGE"
             className="rounded-full md:h-96 h-40 w-40 md:w-96 shadow-xl shadow-black"
           ></img>
         </div>
