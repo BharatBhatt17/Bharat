@@ -35,7 +35,7 @@ function Footer() {
           </p>
 
           <img
-            src="https://media.discordapp.net/attachments/957284229031546993/1019464576556859422/bharat-removebg-preview-removebg-preview.png?ex=662d279f&is=662bd61f&hm=097236835ce96fd4d066e9c2e3e4fe5279f7d3b43d718b6c977ad08861242af1&=&format=webp&quality=lossless"
+            src="https://media.discordapp.net/attachments/957284229031546993/1019464576556859422/bharat-removebg-preview-removebg-preview.png?ex=666e69df&is=666d185f&hm=3bfbf8edcf563bfc272af4f45fb1347b080b4d1449b78e8a4d43c2886a9fc8f8&=&format=webp&quality=lossless"
             className="md:h-6 h-4 w-4 md:w-6"
           ></img>
           <span className="font-bold text-sm md:text-xl text-cyan-400">

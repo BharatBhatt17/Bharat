@@ -9,7 +9,7 @@ const Aboutme = () => {
       className="h-screen md:flex md:flex-col md:justify-center md:items-center md:p-20  pt-20"
       style={{
         backgroundImage:
-          "url(https://drive.google.com/file/d/16q9baCS414-qEFqPuZuLZiPc0XkJWDb-/view?usp=drive_link)",
+          "url(https://media.discordapp.net/attachments/957284229031546993/1212394513981513738/IMG_20240228_190942.jpg?ex=666e4321&is=666cf1a1&hm=34ad375cc533ee79df15fc2b8ee593a4aab3400c8a536a0cb446d526b4c7d9b6&=&format=webp&width=526&height=350)",
         backgroundPosition: "center",
         backgroundSize: "cover",
         backgroundRepeat: "no-repeat",
@@ -26,7 +26,7 @@ const Aboutme = () => {
           </div>
           <div className="flex justify-center">
             <img
-              src="https://drive.google.com/file/d/1xuqcW0NgDnxGTThR2q7ESDuXNAkOcAAh/view?usp=drive_link"
+              src="https://media.discordapp.net/attachments/957284229031546993/1019587762527150080/shadow-designify.png?ex=666e33d9&is=666ce259&hm=09a9300746a0f06115e5f9c27b1dc05cb0f52678c0cdd195270c53f03d8260d7&=&format=webp&quality=lossless&width=350&height=350"
               className=" rounded-full md:h-96 h-40 md:w-96 w-40 shadow-xl shadow-white"
             ></img>
           </div>
@@ -44,7 +44,8 @@ const Aboutme = () => {
           </p>
           <div className="flex justify-center items-center">
             <a
-              href="https://drive.google.com/file/d/1-2AQ3r1DtiKom3i4b8vqBX4fHw31BACL/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1ey3Ava_6-4ijaDg-gSCx_Y7BR7sk5kTT/view?usp=sharing"
+              target="_blank"
               download={true}
               className="text-white bg-gradient-to-b from-cyan-500 to-blue-500 px-6 py-3 my-3 md:my-6 m-auto flex items-center rounded-full shadow-white shadow-lg font-semibold hover:scale-110 duration-300 "
             >

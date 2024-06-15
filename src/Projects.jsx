@@ -17,7 +17,7 @@ function Projects() {
                   target="_blank"
                 >
                   <img
-                    src="https://media.discordapp.net/attachments/957284229031546993/1021441296172331120/Appcodeyogi.png?ex=662dc116&is=662c6f96&hm=9377b166bc9af02179f69579227f521457d979edf711092a4927147da44ea07a&=&format=webp&quality=lossless&width=801&height=578"
+                    src="https://media.discordapp.net/attachments/957284229031546993/1021441296172331120/Appcodeyogi.png?ex=666e5a96&is=666d0916&hm=0717cc87f9002abb9849aa9a6da43de6c49987e70db7e23b6503aa93a6ec021a&=&format=webp&quality=lossless&width=578&height=417"
                     className=" shadow-2xl shadow-black hover:scale-105 rounded-tl-3xl rounded-br-3xl"
                   ></img>
                 </a>
@@ -33,7 +33,7 @@ function Projects() {
                   target="_blank"
                 >
                   <img
-                    src="https://media.discordapp.net/attachments/957284229031546993/1021441295790653520/Codeyogiio.png?ex=662dc116&is=662c6f96&hm=de26270b3c855a130aa248df3f93c4eb06a977258a14841326b023585784353f&=&format=webp&quality=lossless&width=817&height=577"
+                    src="https://media.discordapp.net/attachments/957284229031546993/1021441295790653520/Codeyogiio.png?ex=666e5a96&is=666d0916&hm=919e99f4643c80c93aa055b5c9f99eacb12d4bf044c1dcd5a1904ac3322c7957&=&format=webp&quality=lossless&width=590&height=417"
                     className="shadow-2xl shadow-black hover:scale-105 rounded-tl-3xl rounded-br-3xl"
                   ></img>
                 </a>
@@ -49,7 +49,7 @@ function Projects() {
                   target="_blank"
                 >
                   <img
-                    src="https://media.discordapp.net/attachments/957284229031546993/1021441296595947560/E-commerce.png?ex=662dc116&is=662c6f96&hm=a0a54c64659a600bc92afe1ed2ff438b586cb049b5960b466b2431b08633625f&=&format=webp&quality=lossless&width=812&height=578"
+                    src="https://media.discordapp.net/attachments/957284229031546993/1021441296595947560/E-commerce.png?ex=666e5a96&is=666d0916&hm=5cd87e884178c4a2d962660f526dae8f36ec76cba62a4a24226067fbca1218ad&=&format=webp&quality=lossless&width=586&height=417"
                     className="shadow-2xl shadow-black hover:scale-105 rounded-tl-3xl rounded-br-3xl"
                   ></img>
                 </a>

@@ -40,7 +40,7 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={25} />
         </>
       ),
-      href: "https://drive.google.com/file/d/1-2AQ3r1DtiKom3i4b8vqBX4fHw31BACL/view?usp=drive_link",
+      href: "https://drive.google.com/file/d/1ey3Ava_6-4ijaDg-gSCx_Y7BR7sk5kTT/view?usp=sharing",
       style: "rounded-br-md",
       download: true,
     },

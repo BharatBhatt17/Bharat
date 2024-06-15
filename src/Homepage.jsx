@@ -32,9 +32,9 @@ const Homepage = () => {
           </div>
         </div>
         <SocialLinks />
-        <div className="bg-red-200 p-5">
+        <div className="p-5">
           <img
-            src="https://drive.google.com/file/d/1_IKI4SqLGOr2C04snXtuVKW3bz5skP5b/view?usp=drive_link"
+            src="https://media.discordapp.net/attachments/957284229031546993/1019459042567016468/photostudio-11-designify-modified.png?ex=666e64b8&is=666d1338&hm=4e28c02d6dca114f3f06de9706cb83f6bb2fef4ef6894d5f3768b247c60cf5dd&=&format=webp&quality=lossless&width=350&height=350"
             className="rounded-full md:h-96 h-40 w-40 md:w-96 shadow-xl shadow-black"
           ></img>
         </div>
