@@ -1,5 +1,5 @@
 import React from "react";
-import Aboutmeimg from "./images/Aboutmeimg.jpg";
+
 
 
 const Aboutme = () => {
@@ -9,7 +9,7 @@ const Aboutme = () => {
       className="h-screen md:flex md:flex-col md:justify-center md:items-center md:p-20  pt-20"
       style={{
         backgroundImage:
-          "url(https://media.discordapp.net/attachments/957284229031546993/1212394513981513738/IMG_20240228_190942.jpg?ex=662da9a1&is=662c5821&hm=96fa9597332346914af7b2893c277ea8f87b39ae97fda6cfeee76b1765e49547&=&format=webp)",
+          "url(https://drive.google.com/file/d/16q9baCS414-qEFqPuZuLZiPc0XkJWDb-/view?usp=drive_link)",
         backgroundPosition: "center",
         backgroundSize: "cover",
         backgroundRepeat: "no-repeat",
@@ -26,7 +26,7 @@ const Aboutme = () => {
           </div>
           <div className="flex justify-center">
             <img
-              url= {Aboutmeimg} alt="Aboutmeimg"
+              src="https://drive.google.com/file/d/1xuqcW0NgDnxGTThR2q7ESDuXNAkOcAAh/view?usp=drive_link"
               className=" rounded-full md:h-96 h-40 md:w-96 w-40 shadow-xl shadow-white"
             ></img>
           </div>

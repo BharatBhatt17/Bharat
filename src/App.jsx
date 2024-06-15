@@ -6,7 +6,7 @@ import Navbar from "./Navbar";
 import Project from "./Projects";
 import Footer from "./Footer";
 import Skills from "./Skills";
-import Aboutmeimg from "./images/Aboutmeimg.jpg";
+
 
 
 function App() {
@@ -19,7 +19,7 @@ function App() {
       <Skills />
       <Contact />
       <Footer />
-      <Aboutmeimg/>
+      
       
     </div>
   );
