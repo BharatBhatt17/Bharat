@@ -8,11 +8,11 @@ function Skills() {
   return (
     <div
       name="skills"
-      className="p-20 text-white bg-black font-medium text-2xl md:text-5xl flex flex-col items-center justify-center"
+      className="p-20 text-white bg-black font-medium text-2xl md:text-5xl flex flex-col items-center justify-center "
     >
       S K I L L S
       <div className=" flex flex-col items-center pt-20 h-screen ">
-        <div className="text-cyan-400  md:grid md:grid-cols-5 md:gap-12 grid grid-cols-2 gap-7">
+        <div className="text-cyan-400  md:grid md:grid-cols-5 md:gap-12 grid grid-cols-2 gap-7 font-serif">
           <div className="flex flex-col items-center justify-center md:gap-5">
             <div>
               <AiOutlineHtml5 className="md:h-40 h-20 w-20 md:w-40" />

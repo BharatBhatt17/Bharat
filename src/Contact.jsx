@@ -9,14 +9,14 @@ const Contact = () => {
 
 
       <div 
-      className="md:flex md:flex-col items-center w-screen  gap-2 md:justify-center"> 
-      <div className="  font-bold font-sans md:font-semibold p-5 ">
-        <h2 className="text-xl md:text-3xl">Do You speak Kumauni? It's ok if you don't </h2>
-        <h3 className="text-lg md:text-2xl" >I speak Hindi and English too.</h3>
+      className="md:flex md:flex-col items-center w-screen gap-2 md:justify-center font-serif gap-10"> 
+      <div className=" font-bold text-center font-serif p-2 md:p-5 md:mx-20 mx-24 rounded-full text-white bg-gradient-to-b from-cyan-500 to-blue-500 shadow-black shadow-xl">
+        <h2 className="text-lg md:text-3xl">Do You speak Kumauni? It's ok if you don't </h2>
+        <h3 className="text-md md:text-2xl" >I speak Hindi and English too.</h3>
         </div>
 
 
-<div className="md:flex md:justify-between p-5 w-full md:p-10">
+<div className="md:flex md:justify-between p-10 md:w-full mx-20 md:mx-0 ">
         <div className="mb-10 md:mb-0">
           <h1 className="text-2xl md:text-4xl font-bold">CONTACT WITH ME</h1>
           <hr className="my-2 md:my-5" />
@@ -39,7 +39,7 @@ const Contact = () => {
 
 
 
-        <div className="font-mono md:w-1/2 text-black">
+        <div className="font-mono md:w-1/2 text-black  md:mx-0 ">
           <form
             className=" flex flex-col justify-center gap-1 md:gap-5 "
             action="https://getform.io/f/0e3bcc03-6b7a-4847-95fa-65abc2a2089e"
