@@ -1,5 +1,5 @@
 import React from "react";
-import { TbMailOpened, TbPhoneCall, TbLocation } from "react-icons/tb";
+import { TbMailOpened, TbPhoneCall, TbLocation, TbBrandWhatsapp } from "react-icons/tb";
 
 const Contact = () => {
   return (
@@ -26,8 +26,12 @@ const Contact = () => {
               bharat111bhatt@gmail.com
             </span>
             <span className="flex items-center gap-5">
-              <TbPhoneCall className="h-6 w-6 " />
+              <TbBrandWhatsapp className="h-6 w-6 " />
               +91-8954942543
+            </span>
+            <span className="flex items-center gap-5">
+              <TbPhoneCall className="h-6 w-6 " />
+              +91-9258368090
             </span>
             <span className="flex items-center gap-5">
               <TbLocation className="h-6 w-6 " />
