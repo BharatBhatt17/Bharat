@@ -5,18 +5,18 @@ const Contact = () => {
   return (
     <div
       name="contact"
-      className="bg-white text-black md:p-20 pt-20 p-2 h-screen md:flex ">
+      className="bg-white text-black md:p-20 pt-20 p-2 h-screen md:flex">
 
 
       <div 
-      className="md:flex md:flex-col items-center w-screen gap-2 md:justify-center font-serif gap-10"> 
+      className="md:flex md:flex-col items-center w-screen gap-2 md:justify-center font-serif gap-10 "> 
       <div className=" font-bold text-center font-serif p-2 md:p-5 md:mx-20 mx-24 rounded-full text-white bg-gradient-to-b from-cyan-500 to-blue-500 shadow-black shadow-xl">
         <h2 className="text-lg md:text-3xl">Do You speak Kumauni? It's ok if you don't </h2>
         <h3 className="text-md md:text-2xl" >I speak Hindi and English too.</h3>
         </div>
 
 
-<div className="md:flex md:justify-between p-10 md:w-full mx-20 md:mx-0 ">
+<div className="md:flex md:justify-between p-10 md:w-full mx-20 md:mx-0">
         <div className="mb-10 md:mb-0">
           <h1 className="text-2xl md:text-4xl font-bold">CONTACT WITH ME</h1>
           <hr className="my-2 md:my-5" />
