@@ -6,10 +6,11 @@ const Aboutme = () => {
   return (
     <div
       name="about"
-      className="h-screen md:flex md:flex-col md:justify-center md:items-center md:p-20  pt-20"
+      className="h-screen md:flex md:flex-col md:justify-center md:items-center md:p-20  pt-20
+      "
       style={{
         backgroundImage:
-          "url(https://media.discordapp.net/attachments/957284229031546993/1212394513981513738/IMG_20240228_190942.jpg?ex=666f94a1&is=666e4321&hm=29e3a30dfc37ecb44175d0b1d74c2c3b6a48e1a0243325d1c81f07ba602fe5b7&=&format=webp)",
+          "url(https://media.discordapp.net/attachments/957284229031546993/1212394513981513738/IMG_20240228_190942.jpg?ex=66835b21&is=668209a1&hm=ce3fd3038b6bf4133a759b2cf6beff408bd0692f99be099b4005134993a970fe&=&format=webp&width=512&height=341)",
         backgroundPosition: "center",
         backgroundSize: "cover",
         backgroundRepeat: "no-repeat",
@@ -26,7 +27,7 @@ const Aboutme = () => {
           </div>
           <div className="flex justify-center">
             <img
-              src="https://media.discordapp.net/attachments/957284229031546993/1019587762527150080/shadow-designify.png?ex=666f8559&is=666e33d9&hm=8a7b8b95767342df8aa013f8fe7b4771be9a41d57d2996961712e8a4e6213de1&=&format=webp&quality=lossless"
+              src="https://media.discordapp.net/attachments/957284229031546993/1019587762527150080/shadow-designify.png?ex=66834bd9&is=6681fa59&hm=98d2bcc7c2a3c1c417fa43b24f5efc2d17161ee0a2063629ae6b494efd808c23&=&format=webp&quality=lossless&width=350&height=350"
               className="rounded-full md:h-96 h-40 w-40 md:w-96 shadow-xl shadow-white"
 
               

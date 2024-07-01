@@ -17,7 +17,7 @@ function Projects() {
                   target="_blank"
                 >
                   <img
-                    src="https://media.discordapp.net/attachments/957284229031546993/1021441296172331120/Appcodeyogi.png?ex=666fac16&is=666e5a96&hm=2e9e75d7ad43883d964be856374ee6243d4044e365c65c1ba2abd96aa8d1185f&=&format=webp&quality=lossless&width=857&height=619"
+                    src="https://media.discordapp.net/attachments/957284229031546993/1021441296172331120/Appcodeyogi.png?ex=66837296&is=66822116&hm=79f45c080c2666d3c41e2fe59855c35c18b6dc1d5cc4710a2a0b3dc3e52dca59&=&format=webp&quality=lossless&width=512&height=370"
                     className=" shadow-2xl shadow-black hover:scale-105 rounded-tl-3xl rounded-br-3xl md:h-full h-40"
                   ></img>
                 </a>
@@ -33,7 +33,7 @@ function Projects() {
                   target="_blank"
                 >
                   <img
-                    src="https://media.discordapp.net/attachments/957284229031546993/1021441295790653520/Codeyogiio.png?ex=666fac16&is=666e5a96&hm=9dbc2ce9e37482b8d8e3bce08701977fa4ece7fb6ac8c8df02a9e70652c775ab&=&format=webp&quality=lossless&width=876&height=619"
+                    src="https://media.discordapp.net/attachments/957284229031546993/1021441295790653520/Codeyogiio.png?ex=66837296&is=66822116&hm=9604ce9278d0e4553d6ee36381db1ed82c2c2b18c1c792c338e39fced880e943&=&format=webp&quality=lossless&width=512&height=362"
                     className="shadow-2xl shadow-black hover:scale-105 rounded-tl-3xl rounded-br-3xl md:h-full h-40"
                   ></img>
                 </a>
@@ -49,7 +49,7 @@ function Projects() {
                   target="_blank"
                 >
                   <img
-                    src="https://media.discordapp.net/attachments/957284229031546993/1021441296595947560/E-commerce.png?ex=666fac16&is=666e5a96&hm=c80bd8b1521b8a0b7dd98d291f0bae2d3c3e44f4d31a8038a1d1bb1633be37e6&=&format=webp&quality=lossless&width=870&height=619"
+                    src="https://media.discordapp.net/attachments/957284229031546993/1021441296595947560/E-commerce.png?ex=66837296&is=66822116&hm=307434b0b9e0b8e412464714c469196a11c5cd7e460b5bff506814f501d4c53d&=&format=webp&quality=lossless&width=512&height=364"
                     className="shadow-2xl shadow-black hover:scale-105 rounded-tl-3xl rounded-br-3xl md:h-full h-40"
                   ></img>
                 </a>

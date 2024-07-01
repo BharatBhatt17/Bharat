@@ -34,7 +34,7 @@ const Homepage = () => {
         <SocialLinks />
         <div className="p-5">
           <img
-            src="https://media.discordapp.net/attachments/957284229031546993/1019459042567016468/photostudio-11-designify-modified.png?ex=666fb638&is=666e64b8&hm=4ba76c623b8b61fa8049d1a49a497a871bdad1c5bc71ba8aca8636e919f3fb99&=&format=webp&quality=lossless"
+            src="https://media.discordapp.net/attachments/957284229031546993/1019459042567016468/photostudio-11-designify-modified.png?ex=66837cb8&is=66822b38&hm=557e4de15cb757cd0c96ffb012864433801767291d383960e9477e2307ef16a2&=&format=webp&quality=lossless&width=350&height=350"
             className="rounded-full md:h-96 h-40 w-40 md:w-96 shadow-xl shadow-black"
           ></img>
         </div>

@@ -35,7 +35,7 @@ function Footer() {
           </p>
 
           <img
-            src="https://media.discordapp.net/attachments/957284229031546993/1019464576556859422/bharat-removebg-preview-removebg-preview.png?ex=666e69df&is=666d185f&hm=3bfbf8edcf563bfc272af4f45fb1347b080b4d1449b78e8a4d43c2886a9fc8f8&=&format=webp&quality=lossless"
+            src="https://media.discordapp.net/attachments/957284229031546993/1019464576556859422/bharat-removebg-preview-removebg-preview.png?ex=668381df&is=6682305f&hm=47e36a14af05cfd30e05c65e201f6eff8097f398f3f2f90ce7bdacb0633578ad&=&format=webp&quality=lossless"
             className="md:h-6 h-4 w-4 md:w-6"
           ></img>
           <span className="font-bold text-sm md:text-xl text-cyan-400">
@@ -48,7 +48,7 @@ function Footer() {
       <span className="flex gap-1 font-bold text-sm md:text-lg">
         Made with
         <img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/1200px-Heart_coraz%C3%B3n.svg.png"
+          src="https://static.vecteezy.com/system/resources/thumbnails/018/868/329/small_2x/red-heart-symbol-on-transparent-background-free-png.png"
           className="md:h-8 h-5 w-5 md:w-8 animate-pulse"
         ></img>
         at
