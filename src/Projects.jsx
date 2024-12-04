@@ -1,4 +1,7 @@
 import React from "react";
+import p1 from "./images/p1.jpg";
+import p2 from "./images/p2.jpg";
+import p3 from "./images/p3.jpg";
 
 function Projects() {
   return (
@@ -17,7 +20,7 @@ function Projects() {
                   target="_blank"
                 >
                   <img
-                    src="https://media.discordapp.net/attachments/957284229031546993/1021441296172331120/Appcodeyogi.png?ex=67511c96&is=674fcb16&hm=01dcec069e74df6a6be2938776e8c20d568214e901778b0a13cdaf0124c3d47a&=&format=webp&quality=lossless&width=578&height=417"
+                    src={p1}
                     className=" shadow-2xl shadow-black hover:scale-105 rounded-tl-3xl rounded-br-3xl md:h-full h-40"
                   ></img>
                 </a>
@@ -33,7 +36,7 @@ function Projects() {
                   target="_blank"
                 >
                   <img
-                    src="https://media.discordapp.net/attachments/957284229031546993/1021441295790653520/Codeyogiio.png?ex=67511c96&is=674fcb16&hm=fe7cb952ef2c3998e40b178e797effa653e455a4c88c856f7675938dcf14a2ae&=&format=webp&quality=lossless&width=590&height=417"
+                    src={p2}
                     className="shadow-2xl shadow-black hover:scale-105 rounded-tl-3xl rounded-br-3xl md:h-full h-40"
                   ></img>
                 </a>
@@ -49,7 +52,7 @@ function Projects() {
                   target="_blank"
                 >
                   <img
-                    src="https://media.discordapp.net/attachments/957284229031546993/1021441296595947560/E-commerce.png?ex=67511c96&is=674fcb16&hm=69f6f5af3036165286d122a5caf1f3e06878fb89a93337132bd8394b170929bc&=&format=webp&quality=lossless&width=586&height=417"
+                    src={p3}
                     className="shadow-2xl shadow-black hover:scale-105 rounded-tl-3xl rounded-br-3xl md:h-full h-40"
                   ></img>
                 </a>

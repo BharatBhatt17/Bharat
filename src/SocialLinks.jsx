@@ -2,6 +2,7 @@ import React from "react";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
+import bharatbhattresume from "./resume/Bharat_Bhatt_Resume.pdf";
 
 const SocialLinks = () => {
   const links = [
@@ -40,7 +41,8 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={25} />
         </>
       ),
-      href: "https://drive.google.com/file/d/1ey3Ava_6-4ijaDg-gSCx_Y7BR7sk5kTT/view?usp=sharing",
+      href: bharatbhattresume,
+      target:"_blank",
       style: "rounded-br-md",
       download: true,
     },

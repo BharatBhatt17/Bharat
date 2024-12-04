@@ -1,6 +1,7 @@
 import React from "react";
-
-
+import bgaboutme  from "./images/bgaboutme.jpg";
+import aboutmeimg  from "./images/aboutmeimg.jpg";
+import bharatbhattresume from "./resume/Bharat_Bhatt_Resume.pdf";
 
 const Aboutme = () => {
   return (
@@ -10,7 +11,7 @@ const Aboutme = () => {
       "
       style={{
         backgroundImage:
-          "url(https://media.discordapp.net/attachments/957284229031546993/1212394513981513738/IMG_20240228_190942.jpg?ex=67510521&is=674fb3a1&hm=762d5e64d16fe8005e5ec32c3500da8d923b918f51b3c9e8f063d4008fcf4f7b&=&format=webp&width=626&height=417)",
+          `url(${bgaboutme})`,
         backgroundPosition: "center",
         backgroundSize: "cover",
         backgroundRepeat: "no-repeat",
@@ -29,7 +30,7 @@ const Aboutme = () => {
           </div>
           <div className="flex justify-center ">
             <img
-              src="https://media.discordapp.net/attachments/957284229031546993/1019587762527150080/shadow-designify.png?ex=6750f5d9&is=674fa459&hm=417ab4b86c955f6000779e68a0676606bb939a3d4449213d4cb6b73c405e7efa&=&format=webp&quality=lossless&width=350&height=350"
+              src={aboutmeimg}
               className="rounded-full md:h-96 h-40 w-40 md:w-96 shadow-xl shadow-white"
                         
               
@@ -51,7 +52,7 @@ const Aboutme = () => {
           </p>
           <div className="flex justify-center items-center ">
             <a
-              href="https://drive.google.com/file/d/1ey3Ava_6-4ijaDg-gSCx_Y7BR7sk5kTT/view?usp=sharing"
+              href={bharatbhattresume}
               target="_blank"
               download={true}
               className="text-white bg-gradient-to-b from-cyan-500 to-blue-500 px-6 py-3 my-3 md:my-6 m-auto flex items-center rounded-full shadow-white shadow-lg font-semibold hover:scale-110 duration-300 "

@@ -5,6 +5,8 @@ import {
   AiOutlineInstagram,
   AiFillLinkedin,
 } from "react-icons/ai";
+import logo from "./images/logo.jpg";
+import heart from "./images/heart.jpg";
 
 function Footer() {
   return (
@@ -35,7 +37,7 @@ function Footer() {
           </p>
 
           <img
-            src="https://media.discordapp.net/attachments/957284229031546993/1019464576556859422/bharat-removebg-preview-removebg-preview.png?ex=67512bdf&is=674fda5f&hm=fa8530ba693b89c71a7c829da99cd92dfb99ed2453c61ee85f4627392e819270&=&format=webp&quality=lossless"
+            src={logo}
             className="md:h-6 h-4 w-4 md:w-6"
           ></img>
           <span className="font-bold text-sm md:text-xl text-cyan-400">
@@ -48,7 +50,7 @@ function Footer() {
       <span className="flex gap-1 font-bold text-sm md:text-lg">
         Made with
         <img
-          src="https://static.vecteezy.com/system/resources/thumbnails/018/868/329/small_2x/red-heart-symbol-on-transparent-background-free-png.png"
+          src={heart}
           className="md:h-8 h-5 w-5 md:w-8 animate-pulse"
         ></img>
         at

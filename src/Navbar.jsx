@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "react-scroll";
 import { FaBars, FaTimes } from "react-icons/fa";
+import logo from "./images/logo.jpg";
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
@@ -31,7 +32,7 @@ const Navbar = () => {
   return (
     <div className=" bg-gradient-to-t from-gray-600 to-black text-white flex items-center justify-between px-1 py-2 md:p-3 md:px-6 fixed w-full font-serif">
       <div className="md:h-12 md:w-12 h-7 w-7 text-cyan-400 flex items-center gap-1">
-        <img src="https://media.discordapp.net/attachments/957284229031546993/1019464576556859422/bharat-removebg-preview-removebg-preview.png?ex=67512bdf&is=674fda5f&hm=fa8530ba693b89c71a7c829da99cd92dfb99ed2453c61ee85f4627392e819270&=&format=webp&quality=lossless"></img>
+        <img src={logo}></img>
         <h2 className="font-bold text-xl md:text-3xl">BHARATBHATT</h2>
       </div>
 
