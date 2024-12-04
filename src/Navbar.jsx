@@ -31,7 +31,7 @@ const Navbar = () => {
   return (
     <div className=" bg-gradient-to-t from-gray-600 to-black text-white flex items-center justify-between px-1 py-2 md:p-3 md:px-6 fixed w-full font-serif">
       <div className="md:h-12 md:w-12 h-7 w-7 text-cyan-400 flex items-center gap-1">
-        <img src="https://media.discordapp.net/attachments/957284229031546993/1019464576556859422/bharat-removebg-preview-removebg-preview.png?ex=668381df&is=6682305f&hm=47e36a14af05cfd30e05c65e201f6eff8097f398f3f2f90ce7bdacb0633578ad&=&format=webp&quality=lossless"></img>
+        <img src="https://media.discordapp.net/attachments/957284229031546993/1019464576556859422/bharat-removebg-preview-removebg-preview.png?ex=67512bdf&is=674fda5f&hm=fa8530ba693b89c71a7c829da99cd92dfb99ed2453c61ee85f4627392e819270&=&format=webp&quality=lossless"></img>
         <h2 className="font-bold text-xl md:text-3xl">BHARATBHATT</h2>
       </div>
 
