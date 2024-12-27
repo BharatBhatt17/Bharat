@@ -24,7 +24,7 @@ const Contact = () => {
         </div>
 
 
-<div className="md:flex md:justify-between p-10 md:w-full mx-20 md:mx-0">
+<div className="md:flex md:justify-between  md:p-10 md:w-full mx-20 md:mx-0 pt-10">
         <div className="mb-10 md:mb-0">
           <h1 className="text-2xl md:text-4xl font-bold">CONTACT WITH ME</h1>
           <hr className="my-2 md:my-5" />
