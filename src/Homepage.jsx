@@ -2,6 +2,7 @@ import React from "react";
 import SocialLinks from "./SocialLinks";
 import { Link } from "react-scroll";
 import homepageimg  from "./images/homepageimg.jpg";
+import homepagebg  from "./images/homepagebg.jpg";
 
 
 
@@ -11,9 +12,17 @@ const Homepage = () => {
     <div
       name="home"
       className="h-screen text-black md:flex md:justify-center md:items-center md:p-20 pt-40 p-2"
+      style={{
+              backgroundImage: `url(${homepagebg})`,
+              backgroundPosition: "center",
+              backgroundSize: "cover",
+              backgroundRepeat: "no-repeat",
+              animationDelay: ""
+            }}
+      
 
     >
-      <div className=" font-sans gap-8 md:gap-10 md:flex md:flex-row flex flex-col-reverse md:justify-center items-center">
+      <div className=" font-sans gap-8 md:gap-10 md:flex md:flex-row flex flex-col-reverse md:justify-center items-center" >
         <div className="flex flex-col justify-center items-center ">
           <h1 className="text-4xl md:text-7xl font-semibold font-sans ">
             CREATIVE

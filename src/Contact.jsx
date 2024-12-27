@@ -1,5 +1,6 @@
 import React from "react";
 import { TbMailOpened, TbPhoneCall, TbLocation, TbBrandWhatsapp } from "react-icons/tb";
+import navfoobg from "./images/navfoobg.gif";
 
 const Contact = () => {
   return (
@@ -10,7 +11,14 @@ const Contact = () => {
 
       <div 
       className="md:flex md:flex-col items-center w-screen gap-2 md:justify-center font-serif gap-10 "> 
-      <div className=" font-bold text-center font-serif p-2 md:p-5 md:mx-20 mx-24 rounded-full  bg-gradient-to-b shadow-black shadow-xl bg-gradient-to-t from-gray-600 to-black text-white ">
+      <div className=" font-bold text-center font-serif p-2 md:p-5 md:mx-20 mx-24 rounded-full  bg-gradient-to-b shadow-black shadow-xl bg-gradient-to-t from-gray-600 to-black text-white "
+      style={{
+                    backgroundImage:
+                      `url(${navfoobg})`,
+                    backgroundPosition: "center",
+                    backgroundSize: "cover",
+                    backgroundRepeat: "no-repeat",
+                  }}>
         <h2 className="text-md md:text-2xl">Do You speak Kumauni? It's ok if you don't </h2>
         <h3 className="text-sm md:text-xl" >I speak Hindi and English too.</h3>
         </div>

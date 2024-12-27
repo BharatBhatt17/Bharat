@@ -3,8 +3,10 @@ import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import bharatbhattresume from "./resume/Bharat_Bhatt_Resume.pdf";
+import navfoobg from "./images/navfoobg.gif";
 
 const SocialLinks = () => {
+  
   const links = [
     {
       id: 1,
@@ -49,7 +51,9 @@ const SocialLinks = () => {
   ];
 
   return (
-    <div className="md:flex top-[35%] left-0 fixed hidden">
+    <div className="md:flex top-[35%] left-0 fixed hidden"
+    
+    >
       <ul>
         {links.map(({ id, child, href, style, download }) => (
           <li
@@ -58,7 +62,13 @@ const SocialLinks = () => {
               "flex justify-between items-center w-36 h-14 px-4 ml-[-100px] hover:ml-[-10px] hover:rounded-lg duration-300 bg-black shadow-xl shadow-gray-600" +
               " " +
               style
-            }
+            }style={{
+              backgroundImage:
+                `url(${navfoobg})`,
+              backgroundPosition: "center",
+              backgroundSize: "cover",
+              backgroundRepeat: "no-repeat",
+            }}
           >
             <a
               href={href}

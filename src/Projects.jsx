@@ -8,6 +8,7 @@ function Projects() {
     <div
       name="projects"
       className="text-black font-medium text-2xl md:text-5xl md:p-20  p-20 flex flex-col items-center justify-center"
+      
     >
       <p>P R O J E C T S</p>
       <div>
@@ -16,7 +17,7 @@ function Projects() {
             <div className="flex flex-col items-center gap-5">
               <div>
                 <a
-                  href="https://stellar-horse-9fe354.netlify.app/lectures"
+                  href="https://stellar-horse-9fe354.netlify.app/"
                   target="_blank"
                 >
                   <img

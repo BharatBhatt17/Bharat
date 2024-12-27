@@ -8,9 +8,12 @@ import {
 import logo from "./images/logo.jpg";
 import heart from "./images/heart.jpg";
 
+
 function Footer() {
   return (
-    <div className="bg-gradient-to-b from-gray-800 to-black text-white p-3 px-6 flex flex-col items-center w-full font-serif">
+    <div className="bg-gradient-to-b from-gray-800 to-black text-white p-3 px-6 flex flex-col items-center w-full font-serif"
+   
+    >
       <div className="text-3xl flex gap-3">
         <a
           href="https://www.facebook.com/neverforgetzZyourdreamzZ"

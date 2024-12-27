@@ -4,11 +4,13 @@ import { DiCss3 } from "react-icons/di";
 import { SiJavascript, SiTailwindcss, SiNodedotjs } from "react-icons/si";
 import { RiReactjsFill } from "react-icons/ri";
 
+
 function Skills() {
   return (
     <div
       name="skills"
       className="p-20 text-white bg-black font-medium text-2xl md:text-5xl flex flex-col items-center justify-center "
+   
     >
       S K I L L S
       <div className=" flex flex-col items-center pt-20 h-screen ">
