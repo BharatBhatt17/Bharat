@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Link } from "react-scroll";
 import { FaBars, FaTimes } from "react-icons/fa";
 import logo from "./images/logo.jpg";
-
+import navfoobg from "./images/navfoobg.gif";
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
@@ -31,10 +31,9 @@ const Navbar = () => {
   ];
 
   return (
-    <div className=" bg-gradient-to-t from-gray-600 to-black text-white flex items-center justify-between px-1 py-2 md:p-3 md:px-6 fixed w-full font-serif"
-      
-                  >
-      <div className="md:h-12 md:w-12 h-7 w-7 text-cyan-400 flex items-center gap-1">
+    <div className="bg-gradient-to-t from-gray-600 to-black text-white flex items-center justify-between px-1 py-2 md:p-3 md:px-6 fixed w-full font-serif"
+     >
+      <div className="md:h-12 md:w-12 h-7 w-7 text-cyan-400 flex items-center gap-1 ">
         <img src={logo}></img>
         <h2 className="font-bold text-xl md:text-3xl">BHARATBHATT</h2>
       </div>
@@ -60,7 +59,13 @@ const Navbar = () => {
       </div>
 
       {nav && (
-        <ul className="flex flex-col pt-20 items-center absolute top-0 left-0 w-full h-screen bg-gradient-to-t from-gray-600 to-black text-white">
+        <ul className="flex flex-col pt-20 items-center absolute top-0 left-0 w-full h-screen bg-gradient-to-t from-gray-600 to-black text-white" style={{
+                backgroundImage:
+                  `url(${navfoobg})`,
+                backgroundPosition: "center",
+                backgroundSize: "cover",
+                backgroundRepeat: "no-repeat",
+              }}>
           {links.map(({ id, link }) => (
             <li
               key={id}
